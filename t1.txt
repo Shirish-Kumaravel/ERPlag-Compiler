@@ -1,0 +1,8 @@
+<<<driver program>>>
+start
+    if (x<=y)
+	then start 
+		declare y: real;
+	end
+	endif  
+end
